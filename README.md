@@ -1,8 +1,10 @@
 # Network-Scanning-using-Nmap
 ****Introduction**
+
 Nmap (Network Mapper) is a powerful open-source tool used for network discovery and security auditing. It helps identify hosts, open ports, running services, and even operating systems on a network.
 
 **Installation**
+
 Linux: sudo apt install nmap
 Windows: Download from the official Nmap site
 
