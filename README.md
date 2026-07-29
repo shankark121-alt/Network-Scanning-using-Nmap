@@ -43,4 +43,8 @@ System administration: Monitor uptime, manage upgrades, and troubleshoot connect
 
 Scan Report www.raisoni.net
 
-<img width="1586" height="869" alt="image" src="https://github.com/user-attachments/assets/9a7115e0-e1d3-48a1-81bc-8ddc8b3f7c18" />
+<img width="1586" height="869" alt="image" src="https://github.com/user-attachments/assets/b3a37c13-e152-4348-915f-ff9b7846d720" />
+<img width="1586" height="869" alt="image" src="https://github.com/user-attachments/assets/9860e1c1-5561-42dd-b8a7-aeb03aa580f1" />
+![Uploading image.png…]()
+
+
